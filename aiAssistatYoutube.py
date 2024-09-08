@@ -1,4 +1,4 @@
-# This code snippet is for webapp in streamlit app which is basically restaurant name and menu generator
+# This code snippet is for webapp in streamlit app which is basically youtube assistant 
 # to run this type following into the terminal:
 # streamlit run ai
 #
